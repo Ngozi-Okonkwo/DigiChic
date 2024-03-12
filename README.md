@@ -3,7 +3,8 @@
 # Welcome to my GitHub profile!
 
 ## About Me
-Hello! I am a budding data analyst with a passion for working with data and deriving insights to drive decision-making.
+I am a budding data analyst with a passion for working with data and deriving insights to drive decision-making.
+
 While I may not have professional experience yet, I am eager to learn and grow in the field of data analysis.
 
 ## Skills
