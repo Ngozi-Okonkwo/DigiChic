@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**DigiChic/DigiChic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+Hello! I am a budding data analyst with a passion for working with data and deriving insights to drive decision-making.
+While I may not have professional experience yet, I am eager to learn and grow in the field of data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Proficient in Microsoft Excel for data manipulation and analysis
+- Skilled in PowerBI for data visualization and reporting
+- Experienced in using Google Query for data extraction and transformation
+
+## Projects
+I am currently working on personal projects to showcase my skills in data analysis. Stay tuned for updates on my GitHub repository!
+
+## Contact Me
+Feel free to reach out to me via email at [cbngozi@gmail.com](cbngozi@gmailcom) for any collaboration opportunities or to connect.
+
+Let's dive into the world of data together and uncover valuable insights! 📊🔍
+
