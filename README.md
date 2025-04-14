@@ -16,7 +16,7 @@ While I may not have professional experience yet, I am eager to learn and grow i
 I am currently working on personal projects to showcase my skills in data analysis. You can viiew my GitHub repositories for more.
 
 ## Contact Me
-Feel free to reach out to me via email at [cbngozi@gmail.com](cbngozi@gmail.com) for any collaboration opportunities or to connect with me on [LinkedIn](linkedin.com/in/ngoziokonkwo/)
+Feel free to reach out to me via email at [cbngozi@gmail.com](cbngozi@gmail.com) for any collaboration opportunities or to connect with me on [LinkedIn](https://www.linkedin.com/in/ngoziokonkwo/)
 
 I cannot wait to provide value and utilise my skills to make an impact in the tech space and the world at large.
 
